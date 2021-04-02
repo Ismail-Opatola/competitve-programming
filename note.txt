@@ -1,0 +1,3 @@
+
+Writing Test for vanilla JS 
+  - <https://medium.com/@karimovj/intro-to-testing-vanilla-js-with-jest-7bbe95c34293>
